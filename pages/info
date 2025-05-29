@@ -18,8 +18,8 @@ echo `tput setaf 111`"
 
 "
 sleep .12
-echo `tput setaf 209` '  Swit Scanner is Very Powerful and Easy Automated Web Penetration Testing Tool'
-echo '    Swit Scanner uses whois,whatweb,subfinder,wafw00f,a2sv,dnsenum,'
+echo `tput setaf 209` ' My scanner is Very Powerful and Easy Automated Web Penetration Testing Tool'
+echo '    My scanner uses whois,whatweb,subfinder,wafw00f,a2sv,dnsenum,'
 echo '    sqlmap,wpscan,goofile,ffuf,photon,hakrawler For Scan'
 echo '     Working with My scanner is easier than you think'
 echo '      In a word: My scanner is Very good and Easy Scanner'
