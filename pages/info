@@ -1,18 +1,19 @@
 #! /bin/bash
 clear
 echo `tput setaf 111`"
-███████╗██╗    ██╗██╗████████╗    ███████╗ ██████╗ █████╗ ███╗   ██╗███╗   ██╗███████╗██████╗ 
-██╔════╝██║    ██║██║╚══██╔══╝    ██╔════╝██╔════╝██╔══██╗████╗  ██║████╗  ██║██╔════╝██╔══██╗
-███████╗██║ █╗ ██║██║   ██║       ███████╗██║     ███████║██╔██╗ ██║██╔██╗ ██║█████╗  ██████╔╝
-╚════██║██║███╗██║██║   ██║       ╚════██║██║     ██╔══██║██║╚██╗██║██║╚██╗██║██╔══╝  ██╔══██╗
-███████║╚███╔███╔╝██║   ██║       ███████║╚██████╗██║  ██║██║ ╚████║██║ ╚████║███████╗██║  ██║
-╚══════╝ ╚══╝╚══╝ ╚═╝   ╚═╝       ╚══════╝ ╚═════╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═══╝╚══════╝╚═╝  ╚═╝
+███╗   ███╗██╗   ██╗     ███████╗ ██████╗ █████╗ ███╗   ██╗███╗   ██╗███████╗██████╗ 
+████╗ ████║╚██╗ ██╔╝     ██╔════╝██╔════╝██╔══██╗████╗  ██║████╗  ██║██╔════╝██╔══██╗
+██╔████╔██║ ╚████╔╝█████╗███████╗██║     ███████║██╔██╗ ██║██╔██╗ ██║█████╗  ██████╔╝
+██║╚██╔╝██║  ╚██╔╝ ╚════╝╚════██║██║     ██╔══██║██║╚██╗██║██║╚██╗██║██╔══╝  ██╔══██╗
+██║ ╚═╝ ██║   ██║         ███████║╚██████╗██║  ██║██║ ╚████║██║ ╚████║███████╗██║  ██║
+╚═╝     ╚═╝   ╚═╝         ╚══════╝ ╚═════╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═══╝╚══════╝╚═╝  ╚═╝
+
           ________________________________________________________________________
-         |                                                                        |
-         |     	               WebSite: RedSecurity.xyz                           |
-         |	                Creator: RedSecurity Admin		          |
-         |	                 E-mail: Info@RedSecurity.xyz		          |
-         |							     	          | 
+         |                                                                        
+         |     	               WebSite: Ayoubamg.com                           
+         |	               Creator: Ayoub Amengay		          
+         | 	               E-mail: Ayoub.konan6@gmil.com		                   							     	         
+         |
          --------------------------------------------------------------------------
 
 "
@@ -20,8 +21,8 @@ sleep .12
 echo `tput setaf 209` '  Swit Scanner is Very Powerful and Easy Automated Web Penetration Testing Tool'
 echo '    Swit Scanner uses whois,whatweb,subfinder,wafw00f,a2sv,dnsenum,'
 echo '    sqlmap,wpscan,goofile,ffuf,photon,hakrawler For Scan'
-echo '     Working with Swet scanner is easier than you think'
-echo '      In a word: Swit Scanner is is Very good and Easy Scanner'
-echo '        WebSite: RedSecurity.xyz'
-echo '         E-mail: Info@RedSecurity.xyz'
+echo '     Working with My scanner is easier than you think'
+echo '      In a word: My scanner is Very good and Easy Scanner'
+echo '        WebSite: Ayoubamg.com'
+echo '         E-mail: Ayoub.konan6@gmail.com'
 echo `tput setaf 2` '' `tput sgr0`
