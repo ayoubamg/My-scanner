@@ -6,8 +6,8 @@ Working with My scanner is easier than you think.
 ![salam](./apps/screen.png)
 ## installation
 ```
-1. git clone https://github.com/ayoubamg/Myscanner.git
-2. cd Myscanner
+1. git clone https://github.com/ayoubamg/My-scanner.git
+2. cd My-scanner
 3. bash installer.sh
 ```
 If you do not use **kali linux** or **parrot** or ..., run the following command before running step 3
